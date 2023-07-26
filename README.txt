@@ -1,0 +1,1 @@
+This zip file contains the Report, Movie data set(i.e csv file) which was used in the project, ppt presentation and a link to visit my Google colab page to view the source code.
